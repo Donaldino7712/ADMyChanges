@@ -3299,6 +3299,10 @@ export const news = [
     id: "p1",
     text: "Is this a jojo reference?",
   },
+  {
+    id: "p2",
+    text: "Die Zahlen gehen hoooch"
+  },
   /* eslint-disable max-len */
   {
     id: "ai1",

@@ -1,6 +1,6 @@
 # Antimatter Dimensions - "My Changes"
 Antimatter Dimensions fork with some changes to make development of mods easier.
-Currently based on commit [b813542](https://github.com/IvarK/AntimatterDimensionsSourceCode/commit/b813542).
+Currently based on commit [8b5a34c](https://github.com/IvarK/AntimatterDimensionsSourceCode/commit/8b5a34c).
 
 ## Run
 
